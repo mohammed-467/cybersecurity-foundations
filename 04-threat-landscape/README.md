@@ -23,6 +23,8 @@ By completing this module, I aim to:
 | Document | Purpose |
 |---|---|
 | [Threat Landscape Fundamentals](threat-landscape-fundamentals.md) | Core terminology, relationships, examples, and an introductory analysis method |
+| [Lesson 2 Revision Sheet](lesson-2-revision-sheet.md) | Common threat categories, security controls, evidence-based investigation, and review questions |
+| [Software Supply-Chain Case Study](software-supply-chain-case-study.md) | A practical investigation exercise focused on evidence correlation, incident response, and defensible conclusions |
 | [References](references.md) | Authoritative sources for further reading and verification |
 
 ## Topics to Study
